@@ -10,7 +10,7 @@ TabletFix is the best drawing tablet support mod for Minecraft.
 TabletFix supports all pen tablets, using absolute tablet position conversion into relative deltas.
 TabletFix is designed to be both user-friendly and feature-rich. It has a Configuration HUD for you to use so you could have the best experience possible.
 
-# Feature overview
+# Features
 
 
 # Backports
