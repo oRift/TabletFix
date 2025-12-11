@@ -1,4 +1,6 @@
 <div align="center">
+  [TabletFix - Pen tablet support for Minecraft](https://raw.githubusercontent.com/oRift/TabletFix/assets/banner.png)
+  
   <img alt="supports fabric loader" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">
 </div>
 
