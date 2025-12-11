@@ -1,7 +1,8 @@
 <div align="center">
-  <img alt="TabletFix - Pen Tablet support for Minecraft" height="56" src="https://github.com/oRift/TabletFix/main/assets/banner.png">
-  
-  <img alt="supports fabric loader" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">
+
+![Controlify - Controller support for Minecraft Java](https://github.com/oRift/TabletFix/main/assets/banner.png)
+
+<img alt="supports fabric loader" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">
 </div>
 
 # [Discord](https://discord.gg/gggZGc8C)
