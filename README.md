@@ -1,4 +1,4 @@
-# Discord[https://discord.gg/gggZGc8C]
+# Discord(https://discord.gg/gggZGc8C)
 Join the discord server to find out about more features, fixes and how to fix your issues!
 
 # What is Controlify?
