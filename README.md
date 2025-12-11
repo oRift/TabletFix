@@ -4,7 +4,7 @@
 
 <img alt="supports fabric loader" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">
 
-The best pen tablet support mod for Minecraft: Java Edition
+A mod that adds the best **drawing tablet support** for Minecraft.
 </div>
 
 # [Discord](https://discord.gg/gggZGc8C)
