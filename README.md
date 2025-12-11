@@ -1,10 +1,14 @@
+<div align="center">
+  <img alt="supports fabric loader" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">
+</div>
+
 # [Discord](https://discord.gg/gggZGc8C)
 Join the discord server to find out about more features, fixes and how to fix your issues!
 
-# What is Controlify?
-Controlify is the best controller support mod for Minecraft: Java Edition. It exceeds the first-party Bedrock Edition controller support in every way possible. It is feature-complete, with support for vibration, gyroscope, HD haptics, and more.
-Controlify supports all controllers, thanks to its usage of the SDL3 library, which is the most advanced cross-platform input library available.
-Controlify is designed to be both user-friendly and feature-rich. It has sensible defaults, with default sensitivity matched to Bedrock Edition for easy transition, and a simple yet informative settings screen that allows you to tweak your experience to your liking.
+# TabletFix
+TabletFix is the best drawing tablet support mod for Minecraft.
+TabletFix supports all pen tablets, using 
+TabletFix is designed to be both user-friendly and feature-rich. It has a Configuration HUD for you to use so you could have the best experience possible.
 
 Feature overview
 
